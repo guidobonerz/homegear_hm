@@ -5,4 +5,4 @@ To get this running change the ip address and port in the <b>xmlrpc.properties</
 to your homegear server's address and port. The port is per default <b>2001</b><br>
 <code>homegear.server.url=http://IPADDRESS:PORT</code><br><br>
 
-In package <b>de.drazil.homegear</b> you will and <b>Example.java</b> file
+In package <b>de.drazil.homegear</b> you will find an <b>Example.java</b> file
